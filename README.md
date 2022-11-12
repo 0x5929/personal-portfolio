@@ -49,4 +49,4 @@ Uploaded personal portfolio icons and favicons.
 
 ## 🌟 Supporting me
 
-If you like what you see, and there are any employment opportunities please contact [me](employment.kevin.ren@gmail.com)
+If you like what you see, and there are any employment opportunities please contact [me](mailto:employment.kevin.ren@gmail.com)

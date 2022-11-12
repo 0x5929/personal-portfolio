@@ -17,7 +17,7 @@ A simple one page portfolio using the Gatsby Theme [`@lekoarts/gatsby-theme-cara
 
 - Clone from github
 - Install dependencies `yarn`
-  - Make sure that node versions agree with gatsby
+  - Make sure that node version agrees with gatsby
 - Start server `yarn start`
 
 ## 📝 What I've changed

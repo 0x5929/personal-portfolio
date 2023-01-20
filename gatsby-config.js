@@ -50,6 +50,20 @@ module.exports = {
           },
         ],
       },
+    },      
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+        {
+          resolve: "gatsby-remark-external-links",
+          options: {
+            target: "_blank",
+            rel: "nofollow noreferrer noopener"
+          }
+        }
+        ]
+      }
     },
     shouldAnalyseBundle && {
       resolve: `gatsby-plugin-webpack-bundle-analyser-v2`,
